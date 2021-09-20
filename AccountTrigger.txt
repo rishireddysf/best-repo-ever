@@ -9,5 +9,4 @@ if(Trigger.isAfter){
 
 }
 AccountTriggerhelper.callmethod();
-AccountTriggerhelper.anothermethod();
 }
