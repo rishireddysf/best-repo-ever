@@ -1,2 +1,7 @@
 Hello Work of GIT
 Added 2nd line
+<<<<<<< Updated upstream
+helloo addition
+=======
+new comments added
+>>>>>>> Stashed changes
