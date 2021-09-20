@@ -1,6 +1,8 @@
 Trigger AccountTrigger on Account(before insert, before update, before delete){
 
 if(Trigger.isBefore){
+  if(Trigger.isInsert){
+  }
 
 }
 if(Trigger.isAfter){
